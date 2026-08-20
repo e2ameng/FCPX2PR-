@@ -1,0 +1,38 @@
+FCPX2PR 1.0 原生版 — 使用说明 / User Guide
+作者 / Author: ameng
+
+简体中文
+
+安装
+1. 双击打开“FCPX2PR-1.0.dmg”。
+2. 把“FCPX2PR”拖到“Applications（应用程序）”文件夹。
+3. 第一次打开时，如果 macOS 提示无法验证开发者，请在“应用程序”中右键点 FCPX2PR，选择“打开”，再确认一次。
+
+转换
+1. 把 Final Cut Pro 导出的 .fcpxmld 时间线包或 .fcpxml 文件拖进窗口，也可以点击醒目的“选择 FCPXML 文件…”按钮。
+2. 点击“选择位置…”设置保存目录；如果没有提前选择，点击转换时软件会询问保存位置。
+3. 点击“转换为 Premiere XML”，等待进度条到达 100%。
+4. 点击“在访达中显示”可以直接定位生成的文件，然后在 Adobe Premiere Pro 中选择“文件 > 导入”。
+
+右上角“EN”可切换为英文界面。“关于”包含免费声明与功能介绍。“赞助”用于显示作者的微信赞赏码，赞助完全自愿，不影响任何功能。
+
+提示：转换和导入期间请保持原素材硬盘连接，并保持硬盘名称、文件夹和素材路径不变。Final Cut Pro 专属的调色、LUT、语音隔离、部分转场和插件效果，需要在 Premiere 中重新添加。
+
+English
+
+Installation
+1. Open “FCPX2PR-1.0.dmg”.
+2. Drag FCPX2PR into the Applications folder.
+3. If macOS cannot verify the developer on first launch, right-click FCPX2PR in Applications, choose Open, then confirm.
+
+Conversion
+1. Drop Final Cut Pro .fcpxmld packages or .fcpxml files into the window, or click the prominent “Choose FCPXML Files…” button.
+2. Click “Choose…” to select an output folder. If none is selected, FCPX2PR asks when conversion begins.
+3. Click “Convert to Premiere XML” and wait for the progress bar to reach 100%.
+4. Click “Show in Finder” to locate the result, then choose File > Import in Adobe Premiere Pro.
+
+Use “中文” to switch to Simplified Chinese. About explains the free license and features. Sponsor displays the author's WeChat sponsor code; sponsorship is optional and never changes available features.
+
+Keep the source media drive connected with the same volume name and folder structure. Color grades, LUTs, Voice Isolation, some transitions, and plug-in effects unique to Final Cut Pro must be recreated in Premiere Pro.
+
+System: macOS 12 or later. Apple silicon and Intel Macs are supported.
